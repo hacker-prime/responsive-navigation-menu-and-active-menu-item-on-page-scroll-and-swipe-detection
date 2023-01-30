@@ -3,7 +3,7 @@
 
 The project or repository is a combination of three different features at the same time. Why? I wasn't able to find an existing project or repository or tutorial that had all at the same time and therefore I had to integrate them. The tutorials I used can be found in the acknowledgement section. 
 
-The 1st acknowledgement uses the **active menu item on page scroll feature** of which I did not understand the Javascript logic. Fortunately, I eventually figured it out and I documented it [here](https://www.youtube.com/watch?v=dgm4AhmLKVM). 
+The 1st acknowledgement uses the **active menu item on page scroll feature** of which I never saw before.I spent some time in the exploration and discovery of that feature and documented it [here](https://www.youtube.com/watch?v=dgm4AhmLKVM). 
 
 The 2nd acknowledgement uses an **animation for the hamburger menu item or element when it's selected** and brings out the side navigation for mobile devices. 
 
